@@ -8,8 +8,15 @@ h1 {
 }
 h2 {
     text-align: left;
+    color: blue;
 }
 p {
     text-align: justify;
-    margin: 40px;
+}
+.contenido {
+    max-width: 120ch; /* Limita el ancho del contenido para mejorar la legibilidad a 120 caracteres, ahora se adapta a la pantalla además */
+    margin: 5vh auto; /* Centra el contenido vertical y horizontalmente */
+                      /* el 5vh es para que tenga un margen superior e inferior y significa 5% de la altura de la ventana */
+    padding: 3vw; /* Añade un poco de espacio interior */
+    background: white;
 }
