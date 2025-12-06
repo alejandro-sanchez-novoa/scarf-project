@@ -6,3 +6,4 @@ DDD
 -3. No se añade la carpeta hasta que meto algo dentro, ahora si creo la de images con una foto de Josema Gimenez.
 
 -4. He creado la carpeta de paginas y las paginas, sin contenido.
+-5. Añado la página de la asignatura.
