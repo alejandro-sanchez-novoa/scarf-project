@@ -4,3 +4,5 @@ DDD
 -2. He añadido las carpetas images y css, y un archivo .css dentro que me pone la página amarilla.
 
 -3. No se añade la carpeta hasta que meto algo dentro, ahora si creo la de images con una foto de Josema Gimenez.
+
+-4. He creado la carpeta de paginas y las paginas, sin contenido.
