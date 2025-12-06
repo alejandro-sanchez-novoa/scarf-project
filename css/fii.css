@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 20px;
+}
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: left;
+}
+p {
+    text-align: justify;
+    margin: 40px;
+}

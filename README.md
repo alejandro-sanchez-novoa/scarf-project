@@ -9,4 +9,6 @@ DDD
 
 -5. Añado la página de la asignatura.
 
--6. Añado contenido básico y estructura a la página de fundamentos y unas pequeñas indicaciones de estilo para hacer el css luego (como comentarios). Como la alineacion de los titulos
+-6. Añado contenido básico y estructura a la página de fundamentos y unas pequeñas indicaciones de estilo para hacer el css luego (como comentarios). Como la alineacion de los titulos.
+
+-7. Añado el fii.css (El estilo para la página de la asignatura), para su realización le he puesto "h1" y al tabular me lo ha rellenado como yo quería, con la alineación centrada, luego fijandome en ese he puesto el resto (h2 y p), y el de body lo he copiado del que ya tenia (estilo.css, el del index). Luego lo he añadido a la página con el comando que tenía en el index.
