@@ -18,7 +18,9 @@ DDD
 
 -9. Añado estilo a la lista con la ayuda de Chaty para aumentar el espacio entre los elementos de la lista. También le he metido interlineado 1.3 porque 1.5 me parecía excesivo
 
--10. Añado los enlaces a las páginas en la principal con una barra negra arriba, en el DDD más detallado en la parte de estilo.css
+-10. Añado los enlaces a las páginas en la principal con una barra negra arriba, en el DDD más detallado en la parte de estilo.css (DDD estilo.css -2-)
+
+-11. Añado el icono de la página y los enlaces en la parte inferior de la página index para poder ir más rápido. (DDD más detallado) (DDD index.css -3-)
 
 
 
@@ -27,7 +29,8 @@ DDD
 --index.html y estilo.css--
 
 2- Para añadir el desplegable y la barra de selección de página arriba he usado como referencia este video: https://www.youtube.com/watch?v=9nFQN1bt7kA
-con un poco de ayuda de ChatGPT para que quede como quería. Lo he hecho con dos listas. Así lo he alineado arriba con fondo negro, he quitado que parezca un hipervinculo, y le he añadido hovers para que salga azul al pasar por encima y en el caso del grado un desplegable. Todo creando una clase llamada menu como aparece en el video.
+con un poco de ayuda de ChatGPT para que quede como quería. Lo he hecho con dos listas. Así lo he alineado arriba con fondo negro, he quitado que parezca un hipervinculo, y le he añadido hovers para que salga amarillo al pasar por encima y en el caso del grado un desplegable. Todo creando una clase llamada menu como aparece en el video.
+3- He añadido enlaces al final de la página para mejorar la comunicación entre páginas, y he añadido una linea de copyright porque porque no. También he cogido una línea de código de otra web que ya hice en segundo de la ESO para añadir el icono a la página, la linea es: <link rel="shortcut icon" href="icon.ico>
 
 
 --Fii.html y fii.css--
