@@ -32,7 +32,7 @@ li {
     list-style: none;
     background-color: black;
     
-    position:absolute;
+    position: absolute;
     top: 0;            /* Pegado arriba del todo */
     left: 0;
     width: 100%;       /* Que ocupe todo el ancho */
