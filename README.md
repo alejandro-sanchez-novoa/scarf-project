@@ -27,6 +27,8 @@ También he añadido la información del grado, (Detallado en el DDD, grado.html
 Aunque aún falta información.
 También en este mismo commit añado la barra de navegación entre páginas en la página grado.
 -13. Me faltaban los dos puntos / en las rutas de los enlaces a las páginas en la de grado.html, lo que hacía que no funcionara, lo he arreglado.
+-14. Commit inutil
+-15. Añado info al DDD fii.css
 
 
 ---DDD---
@@ -48,8 +50,9 @@ con un poco de ayuda de ChatGPT para que quede como quería. Lo he hecho con dos
 4- He terminado de meter la información, con distintos encabezados, poniendo cosas en negrita.
 
 -fii.css: 
-1- Aquí he usado chatGPT para ver como poner margen en el texto, me ha dicho que ponga con 70ch que son 70 caracteres y lo he aumentado a 120. También que use la etiqueta "div" con una clase que he llamado contenido y me ha explicado como hacerla, usando un punto antes en el css ( .contenido )
-2- Añado estilo a la lista con la ayuda de Chaty para aumentar el espacio entre los elementos de la lista. También le he metido interlineado 1.3 porque 1.5 me parecía excesivo.
+1- Aquí he usado chatGPT para ver como poner margen en el texto, me ha dicho que ponga con 70ch que son 70 caracteres y lo he aumentado a 120. También que use la etiqueta "div" con una clase que he llamado contenido y me ha explicado como hacerla, usando un punto antes en el css ( .contenido ).
+Le he dicho a la IA que lo de poner margen en funcion de pixeles no era bueno y me ha explicado una forma de hacerlo en función de porcentajes de la ventana las unidades que usa para los márgenes son 5vh que es para que tenga un margen superior e inferior y significa 5% de la altura de la ventana, el auto hace que la horizontal se centre automáticamente. El 1 rem es para añadir espacio entre elementos de la lista y el 3vw del padding es el 3% del ancho de la página pero aún no entiendo del todo que es el padding, pero queda bien.
+2- Añado estilo a la lista con la ayuda de Chaty para aumentar el espacio entre los elementos de la lista. También le he metido interlineado 1.3 porque 1.5 me parecía excesivo (line-height).
 
 
 --grado.html y grado.css--
