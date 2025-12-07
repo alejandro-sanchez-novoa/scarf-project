@@ -26,6 +26,7 @@ DDD
 También he añadido la información del grado, (Detallado en el DDD, grado.html)
 Aunque aún falta información.
 También en este mismo commit añado la barra de navegación entre páginas en la página grado.
+-13. Me faltaban los dos puntos / en las rutas de los enlaces a las páginas en la de grado.html, lo que hacía que no funcionara, lo he arreglado.
 
 
 ---DDD---
@@ -55,7 +56,7 @@ con un poco de ayuda de ChatGPT para que quede como quería. Lo he hecho con dos
 
 -grado.html-
 1- Añado la estructura básica
-2- Copio la barra de navegación de páginas del index.html
+2- Copio la barra de navegación de páginas del index.html (añado ../ antes de cada ruta.)
 3- Copio el copyright y enlaces del index para facilitar navegación pero el "align center" no funcionaba y he tenido que incluirlo en el css
 4- He sacado la información de los objetivos de https://notas.ufv.es/documentos/objetivos_formativos_informatica.pdf y el plan de estudios de la web de la UFV.
 El resto de la información a cerca del grado de los apuntes de la asignatura.
