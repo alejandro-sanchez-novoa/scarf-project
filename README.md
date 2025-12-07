@@ -22,6 +22,10 @@ DDD
 
 -11. Añado el icono de la página y los enlaces en la parte inferior de la página index para poder ir más rápido. (DDD más detallado) (DDD index.css -3-)
 
+-12. Me he dado cuenta de que la clase contenido es general, ya que es el estilo que quiero, asi que la añado también al estilo.css y al grado.css. (grado.css -1-).
+También he añadido la información del grado, (Detallado en el DDD, grado.html)
+Aunque aún falta información.
+También en este mismo commit añado la barra de navegación entre páginas en la página grado.
 
 
 ---DDD---
@@ -45,3 +49,19 @@ con un poco de ayuda de ChatGPT para que quede como quería. Lo he hecho con dos
 -fii.css: 
 1- Aquí he usado chatGPT para ver como poner margen en el texto, me ha dicho que ponga con 70ch que son 70 caracteres y lo he aumentado a 120. También que use la etiqueta "div" con una clase que he llamado contenido y me ha explicado como hacerla, usando un punto antes en el css ( .contenido )
 2- Añado estilo a la lista con la ayuda de Chaty para aumentar el espacio entre los elementos de la lista. También le he metido interlineado 1.3 porque 1.5 me parecía excesivo.
+
+
+--grado.html y grado.css--
+
+-grado.html-
+1- Añado la estructura básica
+2- Copio la barra de navegación de páginas del index.html
+3- Copio el copyright y enlaces del index para facilitar navegación pero el "align center" no funcionaba y he tenido que incluirlo en el css
+4- He sacado la información de los objetivos de https://notas.ufv.es/documentos/objetivos_formativos_informatica.pdf y el plan de estudios de la web de la UFV.
+El resto de la información a cerca del grado de los apuntes de la asignatura.
+
+
+-grado.css-
+1- He copiado el fii.css
+2- Copio el estilo de la barra de navegación de páginas de estilo.css (.menu)
+3- Creo la Clase "Pie" para el pie de página ya que poner que se alinee al centro no funcionaba porque priorizaba el css del parrafo a lo que pusiera en el html
