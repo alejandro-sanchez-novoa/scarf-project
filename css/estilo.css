@@ -4,3 +4,50 @@ body {
     margin: 20px;
     padding: 20px;
 }
+.menu{
+    list-style: none;
+    background-color: black;
+    
+    position:absolute;
+    top: 0;            /* Pegado arriba del todo */
+    left: 0;
+    width: 100%;       /* Que ocupe todo el ancho */
+
+    margin: 0;
+    padding: 0;
+    z-index: 1000;     /* Para que quede por encima de todo */
+    
+}
+.menu li{
+    position: relative;
+    display: inline-block;
+    margin-right: 20px;
+    padding: 10px;
+}
+.menu li a{
+    text-decoration: none;
+    color: white;
+}
+.menu li:hover ul{
+    display: block;
+}
+.menu li a:hover{
+    color: rgb(255, 242, 0);
+}
+.menu ul{
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: black;
+}
+.menu ul li a{
+    display: block;
+    margin: 0;
+    padding : 10px;
+    text-decoration: none;
+    color: white;
+}
+.menu ul li a:hover{
+color : rgb(255, 242, 0);
+}
