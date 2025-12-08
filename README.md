@@ -43,6 +43,7 @@ También en este mismo commit añado la barra de navegación entre páginas en l
 -22. Añado la tabla de las asignaturas (Más detallado en DDD grado.html -5-)
 Le añado estilo a esa tabla (Más detallado en DDD grado.css)
 -23. Arreglo la numeración de los commits en el README.
+-24. He metido los enlaces abajo y la barra de navegación entre páginas de arriba en la página de fii
 
 
 ---DDD---
@@ -62,11 +63,15 @@ con un poco de ayuda de ChatGPT para que quede como quería. Lo he hecho con dos
 2- Añado el fii.css (El estilo para la página de la asignatura), para su realización le he puesto "h1" y al tabular me lo ha rellenado como yo quería, con la alineación centrada, luego fijandome en ese he puesto el resto (h2 y p), y el de body lo he copiado del que ya tenia (estilo.css, el del index). Luego lo he añadido a la página con el comando que tenía en el index.
 3- He metido la descripción de la asignatura como parrafos.
 4- He terminado de meter la información, con distintos encabezados, poniendo cosas en negrita.
+5- Copio la barra de navegación de la página de grado.html que es la misma.
+y los enlaces de la parte inferior.
+
 
 -fii.css: 
 1- Aquí he usado chatGPT para ver como poner margen en el texto, me ha dicho que ponga con 70ch que son 70 caracteres y lo he aumentado a 120. También que use la etiqueta "div" con una clase que he llamado contenido y me ha explicado como hacerla, usando un punto antes en el css ( .contenido ). Las clases lo que hacen es aplicar un estilo unicamente a lo que esté marcado con esta clase.
 Le he dicho a la IA que lo de poner margen en funcion de pixeles no era bueno y me ha explicado una forma de hacerlo en función de porcentajes de la ventana las unidades que usa para los márgenes son 5vh que es para que tenga un margen superior e inferior y significa 5% de la altura de la ventana, el auto hace que la horizontal se centre automáticamente. El 1 rem es para añadir espacio entre elementos de la lista y el 3vw del padding es el 3% del ancho de la página pero aún no entiendo del todo que es el padding, pero queda bien.
 2- Añado estilo a la lista con la ayuda de Chaty para aumentar el espacio entre los elementos de la lista. También le he metido interlineado 1.3 porque 1.5 me parecía excesivo (line-height).
+3- Copio el estilo (.menu) de la barra de navegación y el estilo (.pie) de los enlaces de la parte inferior.
 
 
 --grado.html y grado.css--
