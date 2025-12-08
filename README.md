@@ -3,34 +3,46 @@ Commits
 
 -2. He añadido las carpetas images y css, y un archivo .css dentro que me pone la página amarilla.
 
--3. No se añade la carpeta hasta que meto algo dentro, ahora si creo la de images con una foto de Josema Gimenez.
+-3. Creo el readme desde github en otra rama (no se como ha pasado).
+-4. Junto las ramas (lo ha hecho GitHub).
 
--4. He creado la carpeta de paginas y las paginas, sin contenido.
+-5. Estructuro el readme.
 
--5. Añado la página de la asignatura.
+-6. No se añade la carpeta hasta que meto algo dentro, ahora si creo la de images con una foto de Josema Gimenez.
 
--6. Añado contenido básico y estructura a la página de fundamentos y unas pequeñas indicaciones de estilo para hacer el css luego (como comentarios). Como la alineacion de los titulos.
+-7. Hago cambios en el readme.
 
--7. Añado el fii.css (El estilo para la página de la asignatura), para su realización le he puesto "h1" y al tabular me lo ha rellenado como yo quería, con la alineación centrada, luego fijandome en ese he puesto el resto (h2 y p), y el de body lo he copiado del que ya tenia (estilo.css, el del index). Luego lo he añadido a la página con el comando que tenía en el index.
+-8. He creado la carpeta de paginas y las paginas, sin contenido.
 
--8. He metido la descripción de la asignatura como parrafos.
+-9. Añado la página de la asignatura.
+
+-10. Añado contenido básico y estructura a la página de fundamentos y unas pequeñas indicaciones de estilo para hacer el css luego (como comentarios). Como la alineacion de los titulos.
+
+-11. Añado el fii.css (El estilo para la página de la asignatura), para su realización le he puesto "h1" y al tabular me lo ha rellenado como yo quería, con la alineación centrada, luego fijandome en ese he puesto el resto (h2 y p), y el de body lo he copiado del que ya tenia (estilo.css, el del index). Luego lo he añadido a la página con el comando que tenía en el index.
+
+-12. He metido la descripción de la asignatura como parrafos.
     fii.css: Aquí he usado chatGPT para ver como poner margen en el texto, me ha dicho que ponga con 70ch que son 70 caracteres y lo he aumentado a 120. También que use la etiqueta "div" con una clase que he llamado contenido y me ha explicado como hacerla, usando un punto antes en el css ( .contenido )
 
--9. Añado estilo a la lista con la ayuda de Chaty para aumentar el espacio entre los elementos de la lista. También le he metido interlineado 1.3 porque 1.5 me parecía excesivo
+-13. Añado estilo a la lista con la ayuda de Chaty para aumentar el espacio entre los elementos de la lista. También le he metido interlineado 1.3 porque 1.5 me parecía excesivo
 
--10. Añado los enlaces a las páginas en la principal con una barra negra arriba, en el DDD más detallado en la parte de estilo.css (DDD estilo.css -2-)
+-14. Termino de meter la info de la asignatura
+-15. Añado cosas al readme.
 
--11. Añado el icono de la página y los enlaces en la parte inferior de la página index para poder ir más rápido. (DDD más detallado) (DDD index.css -3-)
+-16. Añado los enlaces a las páginas en la principal con una barra negra arriba (barra de navegación entre páginas), en el DDD más detallado en la parte de estilo.css (DDD estilo.css -2-)
 
--12. Me he dado cuenta de que la clase contenido es general, ya que es el estilo que quiero, asi que la añado también al estilo.css y al grado.css. (grado.css -1-).
+-17. Añado el icono de la página y los enlaces en la parte inferior de la página index para poder ir más rápido. (DDD más detallado) (DDD index.css -3-)
+
+-18. Me he dado cuenta de que la clase contenido es general, ya que es el estilo que quiero, asi que la añado también al estilo.css y al grado.css. (grado.css -1-).
 También he añadido la información del grado, (Detallado en el DDD, grado.html)
 Aunque aún falta información.
 También en este mismo commit añado la barra de navegación entre páginas en la página grado.
--13. Me faltaban los dos puntos / en las rutas de los enlaces a las páginas en  la de grado.html, lo que hacía que no funcionara, lo he arreglado.
--14. Commit inutil
--15. Añado info al DDD fii.css
--16. Añado la tabla de las asignaturas (Más detallado en DDD grado.html -5-)
-    Le añado estilo a esa tabla (Más detallado en DDD grado.css)
+-19. Me faltaban los dos puntos / en las rutas de los enlaces a las páginas en  la de grado.html, lo que hacía que no funcionara, lo he arreglado.
+-20. Commit inutil
+
+-21. Añado info al DDD fii.css
+-22. Añado la tabla de las asignaturas (Más detallado en DDD grado.html -5-)
+Le añado estilo a esa tabla (Más detallado en DDD grado.css)
+-23. Arreglo la numeración de los commits en el README.
 
 
 ---DDD---
