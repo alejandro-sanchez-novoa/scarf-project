@@ -1,4 +1,4 @@
-DDD
+Commits
 -1. He añadido el index. La estructura básica la he hecho presionanso "!" y tabulador. También he dejado lo que había añadido previamente en la clase como la ruta al css, los links e imágenes.
 
 -2. He añadido las carpetas images y css, y un archivo .css dentro que me pone la página amarilla.
@@ -26,9 +26,11 @@ DDD
 También he añadido la información del grado, (Detallado en el DDD, grado.html)
 Aunque aún falta información.
 También en este mismo commit añado la barra de navegación entre páginas en la página grado.
--13. Me faltaban los dos puntos / en las rutas de los enlaces a las páginas en la de grado.html, lo que hacía que no funcionara, lo he arreglado.
+-13. Me faltaban los dos puntos / en las rutas de los enlaces a las páginas en  la de grado.html, lo que hacía que no funcionara, lo he arreglado.
 -14. Commit inutil
 -15. Añado info al DDD fii.css
+-16. Añado la tabla de las asignaturas (Más detallado en DDD grado.html -5-)
+    Le añado estilo a esa tabla (Más detallado en DDD grado.css)
 
 
 ---DDD---
@@ -50,7 +52,7 @@ con un poco de ayuda de ChatGPT para que quede como quería. Lo he hecho con dos
 4- He terminado de meter la información, con distintos encabezados, poniendo cosas en negrita.
 
 -fii.css: 
-1- Aquí he usado chatGPT para ver como poner margen en el texto, me ha dicho que ponga con 70ch que son 70 caracteres y lo he aumentado a 120. También que use la etiqueta "div" con una clase que he llamado contenido y me ha explicado como hacerla, usando un punto antes en el css ( .contenido ).
+1- Aquí he usado chatGPT para ver como poner margen en el texto, me ha dicho que ponga con 70ch que son 70 caracteres y lo he aumentado a 120. También que use la etiqueta "div" con una clase que he llamado contenido y me ha explicado como hacerla, usando un punto antes en el css ( .contenido ). Las clases lo que hacen es aplicar un estilo unicamente a lo que esté marcado con esta clase.
 Le he dicho a la IA que lo de poner margen en funcion de pixeles no era bueno y me ha explicado una forma de hacerlo en función de porcentajes de la ventana las unidades que usa para los márgenes son 5vh que es para que tenga un margen superior e inferior y significa 5% de la altura de la ventana, el auto hace que la horizontal se centre automáticamente. El 1 rem es para añadir espacio entre elementos de la lista y el 3vw del padding es el 3% del ancho de la página pero aún no entiendo del todo que es el padding, pero queda bien.
 2- Añado estilo a la lista con la ayuda de Chaty para aumentar el espacio entre los elementos de la lista. También le he metido interlineado 1.3 porque 1.5 me parecía excesivo (line-height).
 
@@ -60,12 +62,16 @@ Le he dicho a la IA que lo de poner margen en funcion de pixeles no era bueno y 
 -grado.html-
 1- Añado la estructura básica
 2- Copio la barra de navegación de páginas del index.html (añado ../ antes de cada ruta.)
-3- Copio el copyright y enlaces del index para facilitar navegación pero el "align center" no funcionaba y he tenido que incluirlo en el css
+3- Copio el copyright y enlaces del index para facilitar navegación pero el "align center" no funcionaba y he tenido que incluirlo en el css (grado.css -3-)
 4- He sacado la información de los objetivos de https://notas.ufv.es/documentos/objetivos_formativos_informatica.pdf y el plan de estudios de la web de la UFV.
 El resto de la información a cerca del grado de los apuntes de la asignatura.
+5- He buscado en google como hacer una tabla y la versión integrada de gemini en el navegador me ha respondido explicandome las etiquetas, luego he puesto "table" en la página y visual studio ha rellenado la estructura solo.
+He insertado la info y el enlace de la página dedicada a FII (info sacada de las guías docentes). Luego le he metido un borde a la tabla de 1 para que se vea como una tabla y no como un texto raro.
 
 
 -grado.css-
 1- He copiado el fii.css
 2- Copio el estilo de la barra de navegación de páginas de estilo.css (.menu)
 3- Creo la Clase "Pie" para el pie de página ya que poner que se alinee al centro no funcionaba porque priorizaba el css del parrafo a lo que pusiera en el html
+4- He creado las clases negrita (pone el texto en negrita y lo centra), enlace_bonito (pone el enlace negro) con un hover para que al pasar por encima se ponga rojo, y la clase color para poner el texto en azul.
+5- He metido un padding a los elementos de la tabla de 1% de la anchura y altura de la ventana para que no quedara pegado a los bordes de la tabla (creo que ya entiendo que es el padding aunque he tenido que buscar otra vez como se hacía en chatGPT para entenderlo del todo.)

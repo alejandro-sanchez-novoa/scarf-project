@@ -18,6 +18,9 @@ li {
     margin-bottom: 1rem;   /* espacio entre cada punto de la lista */
     line-height: 1.3;      /* mejora la legibilidad */
 }
+td, th {
+  padding: 1vh 1vw;
+}
 .contenido {
     max-width: 120ch; /* Limita el ancho del contenido para mejorar la legibilidad a 120 caracteres, ahora se adapta a la pantalla además */
     margin: 5vh auto; /* Centra el contenido vertical y horizontalmente */
@@ -74,4 +77,17 @@ li {
 }
 .menu ul li a:hover{
 color : rgb(255, 242, 0);
+}
+.negrita {
+    font-weight: bold;
+    text-align: center;
+}
+.color {
+    color: rgb(51, 0, 255);
+}
+.enlace_bonito a {
+    color: rgb(2, 2, 13);
+}
+.enlace_bonito a:hover {
+    color: rgb(255, 0, 0);
 }
