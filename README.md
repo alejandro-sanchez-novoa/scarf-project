@@ -53,6 +53,7 @@ Le añado estilo a esa tabla (Más detallado en DDD grado.css)
 -31. He creado una clase llamada "boton" para hacer cambios sobre este (DDD net.css -2-).
 -32. He añadido un hover al botón (DDD net.css -3-).
 -33. He añadido la barra de navegación entre páginas al net (DDD net.html -5-).
+-34. El enlace ocupaba todo el ancho de la página, asi que lo he arreglado preguntando a la chatGPT (DDD net.html -6- y net.css -4-).
 
 
 ---DDD---
@@ -139,8 +140,10 @@ He insertado la info y el enlace de la página dedicada a FII (info sacada de la
 3- He metido una lista con 3 webs para ver el diseño si me gustaba.
 4- He añadido la clase boton al botón para centrarlo y hacerlo más pequeño. También he puesto blank (y se ha rellenado solo) para que se habra en otra web.
 5- He copiado la barra de navegación entre páginas de la página de grado. Como copié previamente el estilo de dicha página, se ha adaptado perfectamente.
+6- He creado un div con la clase centrar-boton que engloba el enlace y el boton.
 
 -net.css-
 1- He copiado el estilo de grado.css
 2- ChatGPT me ha explicado como puedo reescalarlo y ponerlo en el centro, así que lo he hecho en la clase "boton". Esto se hace con los comandos "width 30vw"(que como ya vimos hace que la anchura sea el 30% de la anchura de la pantalla), "max-width 18rem"(Esto es para que si la pantalla es muy grande no pase de 18rem aunque sea menor al 30% de antes, el rem es una medida que usa como base el tamaño de la letra del navegador) y muchos otros comandos en automático como el margin para centrarlo. Y el "display block" para que pase de linea a bloque.
 3- He añadido un hover al botón para que haya una interacción al poner el cursor encima, mientras lo escribía le dí al tabulador y visual studio me lo generó solo para que se agrande. Esto se hace con "scale(1.05)" que lo hace un 5% más grande y "transform 0.2s" que hace que tarde 0.2 segundos en completarse esa transformación.
+4- El enlace ocupaba toda la página, ChatGPT me ha explicado que es un bug por poner el "display: block", por lo que me ha dicho que cree un div solo para centrar el enlace y luego la otra clase para reescalar el botón, de esta forma si funciona y el enlace está bien.

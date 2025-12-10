@@ -95,8 +95,6 @@ color : rgb(255, 242, 0);
   width: 30vw;
   max-width: 18rem;
   height: auto;
-
-  display: block;          /* De inline a bloque */
   margin-left: auto;       /* Centro horizontal */
   margin-right: auto;      /* Centro horizontal */
   margin-top: 2rem;        /* Separación arriba (opcional) */
@@ -104,4 +102,13 @@ color : rgb(255, 242, 0);
 .boton:hover {
   transform: scale(1.05);  /* Agranda un poco el botón al pasar el ratón */
   transition: transform 0.2s; /* Suaviza la transición */
+}
+/* Contenedor que centra el enlace */
+.centrar-boton {
+  text-align: center;
+}
+
+/* El enlace solo ocupa lo que mide el botón */
+.centrar-boton a {
+  display: inline-block;
 }
