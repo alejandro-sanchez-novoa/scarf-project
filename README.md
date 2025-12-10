@@ -49,6 +49,7 @@ Le añado estilo a esa tabla (Más detallado en DDD grado.css)
 -27. Creo la estructura de la página about.html (DDD about.html -1-).
 -28. Creo la estructura de la página net.html (DDD net.html -1-).
 -29. Añado una web de un trabajo de bachillerato porque aún no tengo la de los compañeros. Como un simple enlace me parecía cutre, lo pongo en una imagen de un botón, aunque es muy grande y no se como alinearlo al centro (DDD net.html -2-). también he añadido una lista de webs para decidir como queda mejor despues (DDD net.html -3-).
+-30. He copiado el estilo de grado.css en net.css
 
 
 ---DDD---
@@ -135,3 +136,4 @@ He insertado la info y el enlace de la página dedicada a FII (info sacada de la
 3- He metido una lista con 3 webs para ver el diseño si me gustaba.
 
 -net.css-
+1- He copiado el estilo de grado.css
