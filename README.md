@@ -45,8 +45,9 @@ Le añado estilo a esa tabla (Más detallado en DDD grado.css)
 -23. Arreglo la numeración de los commits en el README.
 -24. He metido los enlaces abajo y la barra de navegación entre páginas de arriba en la página de fii.
 -25. He añadido el icono a las páginas fii y topic (como se repite para el resto ya no lo pondré detallado, esta en el apartado de index del DDD, así como en el apartado de topic.html -2- y fii.html -6-).
--26. Creo la estructura de la página contact.html
--27. Creo la estructura de la página about.html
+-26. Creo la estructura de la página contact.html (DDD contact.html -1-)
+-27. Creo la estructura de la página about.html (DDD about.html -1-)
+-28. Creo la estructura de la página net.html (DDD net.html -1-)
 
 
 ---DDD---
@@ -128,6 +129,6 @@ He insertado la info y el enlace de la página dedicada a FII (info sacada de la
 --net.html y net.css--
 
 -net.html-
-
+1- Creo la estructura básica con el !
 
 -net.css-
