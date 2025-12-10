@@ -51,6 +51,7 @@ Le añado estilo a esa tabla (Más detallado en DDD grado.css)
 -29. Añado una web de un trabajo de bachillerato porque aún no tengo la de los compañeros. Como un simple enlace me parecía cutre, lo pongo en una imagen de un botón, aunque es muy grande y no se como alinearlo al centro (DDD net.html -2-). también he añadido una lista de webs para decidir como queda mejor despues (DDD net.html -3-).
 -30. He copiado el estilo de grado.css en net.css.
 -31. He creado una clase llamada "boton" para hacer cambios sobre este (DDD net.css -2-).
+-32. He añadido un hover al botón (DDD net.css -3-).
 
 
 ---DDD---
@@ -139,4 +140,5 @@ He insertado la info y el enlace de la página dedicada a FII (info sacada de la
 
 -net.css-
 1- He copiado el estilo de grado.css
-2- ChatGPT me ha dicho como puedo reescalarlo y ponerlo en el centro, así que lo he copiado en la clase "boton". Esto se hace con los comandos width 30vw (que como ya vimos es el 30% de la anchura de la pantalla), max-width 18rem (Esto es para que si la pantalla es muy grande no pase de 18rem aunque sea menor al 30% de antes, el rem es una medida que usa como base el tamaño de la letra del navegador) y muchos otros comandos en automático como el margin para centrarlo. Y el display block para que pase de linea a bloque.
+2- ChatGPT me ha explicado como puedo reescalarlo y ponerlo en el centro, así que lo he hecho en la clase "boton". Esto se hace con los comandos "width 30vw"(que como ya vimos hace que la anchura sea el 30% de la anchura de la pantalla), "max-width 18rem"(Esto es para que si la pantalla es muy grande no pase de 18rem aunque sea menor al 30% de antes, el rem es una medida que usa como base el tamaño de la letra del navegador) y muchos otros comandos en automático como el margin para centrarlo. Y el "display block" para que pase de linea a bloque.
+3- He añadido un hover al botón para que haya una interacción al poner el cursor encima, mientras lo escribía le dí al tabulador y visual studio me lo generó solo para que se agrande. Esto se hace con "scale(1.05)" que lo hace un 5% más grande y "transform 0.2s" que hace que tarde 0.2 segundos en completarse esa transformación.

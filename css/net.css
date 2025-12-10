@@ -101,3 +101,7 @@ color : rgb(255, 242, 0);
   margin-right: auto;      /* Centro horizontal */
   margin-top: 2rem;        /* Separación arriba (opcional) */
 }
+.boton:hover {
+  transform: scale(1.05);  /* Agranda un poco el botón al pasar el ratón */
+  transition: transform 0.2s; /* Suaviza la transición */
+}
