@@ -52,6 +52,7 @@ Le añado estilo a esa tabla (Más detallado en DDD grado.css)
 -30. He copiado el estilo de grado.css en net.css.
 -31. He creado una clase llamada "boton" para hacer cambios sobre este (DDD net.css -2-).
 -32. He añadido un hover al botón (DDD net.css -3-).
+-33. He añadido la barra de navegación entre páginas al net (DDD net.html -5-).
 
 
 ---DDD---
@@ -137,6 +138,7 @@ He insertado la info y el enlace de la página dedicada a FII (info sacada de la
 2- He metido un enlace a una web de un antiguo trabajo en grupo, la he puesto con un botón (una imagen de un botón) añadiendo un <img src=la_direccion_del_boton>, pero está muy grande y no consiguo alinearlo a la derecha.
 3- He metido una lista con 3 webs para ver el diseño si me gustaba.
 4- He añadido la clase boton al botón para centrarlo y hacerlo más pequeño. También he puesto blank (y se ha rellenado solo) para que se habra en otra web.
+5- He copiado la barra de navegación entre páginas de la página de grado. Como copié previamente el estilo de dicha página, se ha adaptado perfectamente.
 
 -net.css-
 1- He copiado el estilo de grado.css
