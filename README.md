@@ -49,7 +49,8 @@ Le añado estilo a esa tabla (Más detallado en DDD grado.css)
 -27. Creo la estructura de la página about.html (DDD about.html -1-).
 -28. Creo la estructura de la página net.html (DDD net.html -1-).
 -29. Añado una web de un trabajo de bachillerato porque aún no tengo la de los compañeros. Como un simple enlace me parecía cutre, lo pongo en una imagen de un botón, aunque es muy grande y no se como alinearlo al centro (DDD net.html -2-). también he añadido una lista de webs para decidir como queda mejor despues (DDD net.html -3-).
--30. He copiado el estilo de grado.css en net.css
+-30. He copiado el estilo de grado.css en net.css.
+-31. He creado una clase llamada "boton" para hacer cambios sobre este (DDD net.css -2-).
 
 
 ---DDD---
@@ -134,6 +135,8 @@ He insertado la info y el enlace de la página dedicada a FII (info sacada de la
 1- Creo la estructura básica con el !
 2- He metido un enlace a una web de un antiguo trabajo en grupo, la he puesto con un botón (una imagen de un botón) añadiendo un <img src=la_direccion_del_boton>, pero está muy grande y no consiguo alinearlo a la derecha.
 3- He metido una lista con 3 webs para ver el diseño si me gustaba.
+4- He añadido la clase boton al botón para centrarlo y hacerlo más pequeño. También he puesto blank (y se ha rellenado solo) para que se habra en otra web.
 
 -net.css-
 1- He copiado el estilo de grado.css
+2- ChatGPT me ha dicho como puedo reescalarlo y ponerlo en el centro, así que lo he copiado en la clase "boton". Esto se hace con los comandos width 30vw (que como ya vimos es el 30% de la anchura de la pantalla), max-width 18rem (Esto es para que si la pantalla es muy grande no pase de 18rem aunque sea menor al 30% de antes, el rem es una medida que usa como base el tamaño de la letra del navegador) y muchos otros comandos en automático como el margin para centrarlo. Y el display block para que pase de linea a bloque.
