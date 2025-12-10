@@ -43,7 +43,8 @@ También en este mismo commit añado la barra de navegación entre páginas en l
 -22. Añado la tabla de las asignaturas (Más detallado en DDD grado.html -5-)
 Le añado estilo a esa tabla (Más detallado en DDD grado.css)
 -23. Arreglo la numeración de los commits en el README.
--24. He metido los enlaces abajo y la barra de navegación entre páginas de arriba en la página de fii
+-24. He metido los enlaces abajo y la barra de navegación entre páginas de arriba en la página de fii.
+-25. He añadido el icono a las páginas fii y topic (como se repite para el resto ya no lo pondré detallado, esta en el apartado de index del DDD, así como en el apartado de topic.html -2- y fii.html -6-).
 
 
 ---DDD---
@@ -65,6 +66,7 @@ con un poco de ayuda de ChatGPT para que quede como quería. Lo he hecho con dos
 4- He terminado de meter la información, con distintos encabezados, poniendo cosas en negrita.
 5- Copio la barra de navegación de la página de grado.html que es la misma.
 y los enlaces de la parte inferior.
+6- Le añado el icono a la página con la linea <link rel="shortcut icon" href="../icon.ico>
 
 
 -fii.css: 
@@ -92,3 +94,11 @@ He insertado la info y el enlace de la página dedicada a FII (info sacada de la
 3- Creo la Clase "Pie" para el pie de página ya que poner que se alinee al centro no funcionaba porque priorizaba el css del parrafo a lo que pusiera en el html
 4- He creado las clases negrita (pone el texto en negrita y lo centra), enlace_bonito (pone el enlace negro) con un hover para que al pasar por encima se ponga rojo, y la clase color para poner el texto en azul.
 5- He metido un padding a los elementos de la tabla de 1% de la anchura y altura de la ventana para que no quedara pegado a los bordes de la tabla (creo que ya entiendo que es el padding aunque he tenido que buscar otra vez como se hacía en chatGPT para entenderlo del todo.)
+
+
+--topic.html y topic.css
+
+-topic.html-
+1- Añado la estructura básica de la misma forma que lo hice con las otras.
+2- Añado el icono igual que con las otras con la linea <link rel="shortcut icon" href="../icon.ico>
+
