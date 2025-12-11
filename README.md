@@ -55,6 +55,7 @@ Le añado estilo a esa tabla (Más detallado en DDD grado.css)
 -33. He añadido la barra de navegación entre páginas al net (DDD net.html -5-).
 -34. El enlace ocupaba todo el ancho de la página, asi que lo he arreglado preguntando a la chatGPT (DDD net.html -6- y net.css -4-).
 -35. He rellenado la estructura básica del formulario de la página contact (DDD contact.html -2-)
+-36. He copiado el estilo de grado.css en contact.css.
 
 
 ---DDD---
@@ -124,7 +125,7 @@ He insertado la info y el enlace de la página dedicada a FII (info sacada de la
 
 
 -contact.css
-
+1- He copiado el estilo de grado.css
 
 --about.html y about.css--
 
