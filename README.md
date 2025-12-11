@@ -58,6 +58,7 @@ Le añado estilo a esa tabla (Más detallado en DDD grado.css)
 -36. He copiado el estilo de grado.css en contact.css.
 -37. He metido la clase contenido en el formulario para centrar en contact.html (DDD contact.html -).
 -38. He añadido la barra de navegación entre páginas al net (DDD contact.html -4-).
+-39. He añadido otra web a net.html (DDD net.html -7-).
 
 
 ---DDD---
@@ -148,6 +149,7 @@ He insertado la info y el enlace de la página dedicada a FII (info sacada de la
 4- He añadido la clase boton al botón para centrarlo y hacerlo más pequeño. También he puesto blank (y se ha rellenado solo) para que se habra en otra web.
 5- He copiado la barra de navegación entre páginas de la página de grado. Como copié previamente el estilo de dicha página, se ha adaptado perfectamente.
 6- He creado un div con la clase centrar-boton que engloba el enlace y el boton.
+7- He añadido la web de Sofía, para ello he copiado la estructura de la otra web y he cambiado el enlace. Para que haya variedad, me he descargado el botón en otro color y le he cambiado la ruta a la imagen por la nueva para que el botón ahora sea azul.
 
 -net.css-
 1- He copiado el estilo de grado.css
