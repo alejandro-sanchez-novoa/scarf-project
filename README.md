@@ -56,6 +56,7 @@ Le añado estilo a esa tabla (Más detallado en DDD grado.css)
 -34. El enlace ocupaba todo el ancho de la página, asi que lo he arreglado preguntando a la chatGPT (DDD net.html -6- y net.css -4-).
 -35. He rellenado la estructura básica del formulario de la página contact (DDD contact.html -2-)
 -36. He copiado el estilo de grado.css en contact.css.
+-37. He metido la clase contenido en el formulario para centrar en contact.html (DDD contact.html -).
 
 
 ---DDD---
@@ -122,7 +123,7 @@ He insertado la info y el enlace de la página dedicada a FII (info sacada de la
 -contact.html-
 1- Creo la estructura básica con el !
 2- he puesto la etiqueta <form> y visual studio lo ha rellenado solo con la estructura del formulario para enviar un mensaje, correo y nombre. Sin embargo, no lo envía a ningún sitio.
-
+3- He añadido la clase contenido en un "div" para que se centre con margenes y todo eso. Como ya copié el otro css, se adapta sin problemas.
 
 -contact.css
 1- He copiado el estilo de grado.css
