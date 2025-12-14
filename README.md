@@ -60,6 +60,7 @@ Le añado estilo a esa tabla (Más detallado en DDD grado.css)
 -38. He añadido la barra de navegación entre páginas al net (DDD contact.html -4-).
 -39. He añadido otra web a net.html (DDD net.html -7-).
 -40. He añadido la estructura de la web about (DDD about.html -2-).
+-41. He copiado el estilo de grado.css en about.css.
 
 
 ---DDD---
@@ -140,7 +141,7 @@ He insertado la info y el enlace de la página dedicada a FII (info sacada de la
 2- He añadido los titulos de lo que se me pide, la descripción, curriculum y redes sociales en h2.
 
 -about.css-
-
+1- He copiado el estilo de grado.css
 
 --net.html y net.css--
 
