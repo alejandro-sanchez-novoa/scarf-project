@@ -59,6 +59,7 @@ Le añado estilo a esa tabla (Más detallado en DDD grado.css)
 -37. He metido la clase contenido en el formulario para centrar en contact.html (DDD contact.html -).
 -38. He añadido la barra de navegación entre páginas al net (DDD contact.html -4-).
 -39. He añadido otra web a net.html (DDD net.html -7-).
+-40. He añadido la estructura de la web about (DDD about.html -2-).
 
 
 ---DDD---
@@ -136,6 +137,7 @@ He insertado la info y el enlace de la página dedicada a FII (info sacada de la
 
 -about.html-
 1- Creo la estructura básica con el !
+2- He añadido los titulos de lo que se me pide, la descripción, curriculum y redes sociales en h2.
 
 -about.css-
 
