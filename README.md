@@ -63,7 +63,7 @@ Le añado estilo a esa tabla (Más detallado en DDD grado.css)
 -41. He copiado el estilo de grado.css en about.css.
 -42. He añadido la barra de navegación entre páginas al net (DDD about.html -3-).
 -43. He metido las películas que quería en la pagina topic.html, y he añadido un video pero no funciona (DDD topic.html -3-).
-
+-44. He copiado el estilo de grado.css en topic.css.
 
 ---DDD---
 
@@ -123,7 +123,7 @@ He insertado la info y el enlace de la página dedicada a FII (info sacada de la
 
 
 -topic.css-
-
+1- He copiado el estilo de grado.css
 
 --contact.html y contact.css--
 
