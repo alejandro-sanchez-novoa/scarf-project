@@ -68,7 +68,8 @@ Le añado estilo a esa tabla (Más detallado en DDD grado.css)
 -46. He añadido la información de las películas (DDD topic.html -5-).
 -47. Añado el resto de trailers (DDD topic.html -6-).
 -48. Añado la clase separador en "hr" entre pelis (DDD topic.html -7- y topic.css -2-).
--49- He retocado un poco el separador, lo he cambiado de 0.2 a 0.4rem
+-49. He retocado un poco el separador, lo he cambiado de 0.2 a 0.4rem.
+-50. He añadido el separador al principio de todo también.
 
 ---DDD---
 
