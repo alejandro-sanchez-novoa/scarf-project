@@ -93,7 +93,7 @@ color : rgb(255, 242, 0);
 }
 .separador {
   border: none;
-  height: 0.2rem;
+  height: 0.4rem;
   background: linear-gradient(
     to right,
     transparent,
