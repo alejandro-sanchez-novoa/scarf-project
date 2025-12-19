@@ -65,6 +65,7 @@ Le añado estilo a esa tabla (Más detallado en DDD grado.css)
 -43. He metido las películas que quería en la pagina topic.html, y he añadido un video pero no funciona (DDD topic.html -3-).
 -44. He copiado el estilo de grado.css en topic.css.
 -45. He añadido la barra de navegación entre páginas al net y la clase contenido en un div (DDD topic.html -4-).
+-46. He añadido la información de las películas (DDD topic.html -5-).
 
 ---DDD---
 
@@ -122,6 +123,7 @@ He insertado la info y el enlace de la página dedicada a FII (info sacada de la
 2- Añado el icono igual que con las otras con la linea <link rel="shortcut icon" href="../icon.ico>
 3- Añado los títulos de las películas que voy a añadir. A su vez, he añadido un enlace a un video que, en teoría, se puede ver desde la web, esto lo he hecho desde YouTube, al darle a compartir una opción es insertar que te copia el código de html para ver el video. Sin embargo, no funciona.
 4- He copiado la barra de navegación entre páginas de la página de grado.html. Como copié previamente el estilo de dicha página, se ha adaptado perfectamente.También he metido la etiqueta "div" con la clase "contenido" para el formato.
+5- He añadido la información de las pelis mediante parrafos y encabezados y negrita en algunas ocasiones con la etiqueta "b"
 
 
 
