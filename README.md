@@ -67,6 +67,7 @@ Le añado estilo a esa tabla (Más detallado en DDD grado.css)
 -45. He añadido la barra de navegación entre páginas al net y la clase contenido en un div (DDD topic.html -4-).
 -46. He añadido la información de las películas (DDD topic.html -5-).
 -47. Añado el resto de trailers (DDD topic.html -6-).
+-48. Añado la clase separador en "hr" entre pelis (DDD topic.html -7- y topic.css -2-).
 
 ---DDD---
 
@@ -126,11 +127,13 @@ He insertado la info y el enlace de la página dedicada a FII (info sacada de la
 4- He copiado la barra de navegación entre páginas de la página de grado.html. Como copié previamente el estilo de dicha página, se ha adaptado perfectamente.También he metido la etiqueta "div" con la clase "contenido" para el formato.
 5- He añadido la información de las pelis mediante parrafos y encabezados y negrita en algunas ocasiones con la etiqueta "b"
 6- He añadido el resto de trailers igual que lo hice en el punto 3 (mediante la opción de YouTube). He descubierto que si abro la web en local no se ve pero si la abro online si que se ven los trailers.
+7- Añado la clase separador entre las pelis para separalas mediante la etiqueta "hr" que me ha explicado la IA que sirve para separar ideas, un divisor de contenido pero entre ideas y no de ideas.
 
 
 
 -topic.css-
 1- He copiado el estilo de grado.css
+2- Añado una clase llamada separador que me ha hecho ChatGPT para añadir un separador entre las pelis porque quedaban muy juntas.
 
 
 --contact.html y contact.css--

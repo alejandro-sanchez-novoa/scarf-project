@@ -91,3 +91,14 @@ color : rgb(255, 242, 0);
 .enlace_bonito a:hover {
     color: rgb(255, 0, 0);
 }
+.separador {
+  border: none;
+  height: 0.2rem;
+  background: linear-gradient(
+    to right,
+    transparent,
+    #999,
+    transparent
+  );
+  margin: 4rem 0;
+}
