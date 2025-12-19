@@ -70,6 +70,7 @@ Le añado estilo a esa tabla (Más detallado en DDD grado.css)
 -48. Añado la clase separador en "hr" entre pelis (DDD topic.html -7- y topic.css -2-).
 -49. He retocado un poco el separador, lo he cambiado de 0.2 a 0.4rem.
 -50. He añadido el separador al principio de todo también.
+-51. He añadido iconos a las películas que creo que encajan (DDD topic.html -8-) En ese apartado está explicado el porque de los emojis.
 
 ---DDD---
 
@@ -130,6 +131,7 @@ He insertado la info y el enlace de la página dedicada a FII (info sacada de la
 5- He añadido la información de las pelis mediante parrafos y encabezados y negrita en algunas ocasiones con la etiqueta "b"
 6- He añadido el resto de trailers igual que lo hice en el punto 3 (mediante la opción de YouTube). He descubierto que si abro la web en local no se ve pero si la abro online si que se ven los trailers.
 7- Añado la clase separador entre las pelis para separalas mediante la etiqueta "hr" que me ha explicado la IA que sirve para separar ideas, un divisor de contenido pero entre ideas y no de ideas.
+8- He añadido iconos a las películas porque creo que se ve mejor así, los emojis tienen que ver con la peli. En "Memento" he puesto 📸 porque en la peli usa fotos para recordar cosas. En "El club de la lucha" 🧼 porque Tyler hace jabones. En "La la land" 🎷 porque se relaciona con Seb que toca jazz. En "Regreso al futuro" 🎸 porque Marty tocaba la guitarra. En "Ocean's eleven" he añadido ♠️ porque roban en un casino. En "Oppenheimer" he puesto 🔥 porque la peli se basa en la obra "Prometeo americano" y prometeo fue quien robó el fuego de los dioses para darselo a los hombres. En "Star wars" he añadido 🛸 porque hay naves. En "Moneyball" ⚾ porque va de beisbol (En verdad va de mates pero sobre el beisbol). En "Top Gun" ✈️ por que va de aviones. En "Gladiator" ⚔️ por motivos obvios. En "Footloose" 🕺 porque va de bailar. 
 
 
 
