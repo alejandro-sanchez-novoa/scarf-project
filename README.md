@@ -73,6 +73,7 @@ Le añado estilo a esa tabla (Más detallado en DDD grado.css)
 -51. He añadido iconos a las películas que creo que encajan (DDD topic.html -8-) En ese apartado está explicado el porque de los emojis.
 -52. He añadido los enlaces a JustWatch de las pelis por si se quiere ir a verla con la clase enlace_bonito para que siguiera el mismo formato que en grado.html (DDD topic.html -9-).
 -53. Añado el pie de página a topic.html (DDD topic.html -10-).
+-54. Añado el pie de página al resto de páginas que no lo tenían igual que en el punto anterior.
 
 ---DDD---
 
