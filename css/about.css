@@ -92,3 +92,9 @@ color : rgb(255, 242, 0);
 .enlace_bonito a:hover {
     color: rgb(255, 0, 0);
 }
+.fotos {
+    display: flex;
+    gap: 20px; /* Espacio entre las imágenes */
+    height: 20rem; 
+    width: auto;
+}
