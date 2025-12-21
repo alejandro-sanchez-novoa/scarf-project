@@ -77,6 +77,7 @@ Le añado estilo a esa tabla (Más detallado en DDD grado.css)
 -55. Añado el Curriculum en la web de about.html, he decidido hacerlo inventado, de un personaje que hice para un trabajo de 4º de la ESO. (DDD about.html -4-).
 -56. Añado la foto de Carlos (DDD about.html -5-).
 -57. Añado las RR.SS. (DDD about.html -6-).
+-58. Añado estilo a los enlaces de las redes sociales.
 
 ---DDD---
 
@@ -168,11 +169,13 @@ He insertado la info y el enlace de la página dedicada a FII (info sacada de la
 3- He copiado la barra de navegación entre páginas de la página de grado.html. Como copié previamente el estilo de dicha página, se ha adaptado perfectamente.
 4- He añadido el curriculum en estilo lista, me he basado para la primera parte en el tema pero el resto es cosecha propia, lo he hecho de un personaje ficticio que tuve que hacer en 4º de la Eso, Es un escritor del romanticismo, claro, ¿cómo está vivo?, quien sabe pero, ¿A caso es relevante? He añadido experiencia profesional, académica, descripción...
 5- He metido la foto de Carlos con el "img src". La foto está hecha con ia para el trabajo mencionado.
-6- Meto los enlaces a las redes, en este caso mi instagram, el spotify de infoadictos y letterboxd, Lo he hecho en estilo tabla para que se separaran un poco cada una porque sino quedaban muy juntas. Los enlaces vienen con una imagen al lado que es el icono de la red social para que se sepa a cual vas a ir.
+6- Meto los enlaces a las redes, en este caso mi instagram, el spotify de infoadictos y letterboxd, Lo he hecho en estilo tabla para que se separaran un poco cada una porque sino quedaban muy juntas (la tabla sin bordes ni nada, solo quería separar un poco las redes). Los enlaces vienen con una imagen al lado que es el icono de la red social para que se sepa a cual vas a ir.
+7- He metido la "div" con la clase "contenido" y he metido en la tabla la clase "enlace_bonito"
 
 
 -about.css-
 1- He copiado el estilo de grado.css
+2- He cambiado la clase "enlace_bonito" para quitar la barra de abajo del enlace con el "text-decoration: none;"
 
 --net.html y net.css--
 

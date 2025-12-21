@@ -86,6 +86,7 @@ color : rgb(255, 242, 0);
     color: rgb(51, 0, 255);
 }
 .enlace_bonito a {
+    text-decoration: none;
     color: rgb(2, 2, 13);
 }
 .enlace_bonito a:hover {
