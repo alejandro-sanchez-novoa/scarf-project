@@ -74,7 +74,8 @@ Le añado estilo a esa tabla (Más detallado en DDD grado.css)
 -52. He añadido los enlaces a JustWatch de las pelis por si se quiere ir a verla con la clase enlace_bonito para que siguiera el mismo formato que en grado.html (DDD topic.html -9-).
 -53. Añado el pie de página a topic.html (DDD topic.html -10-).
 -54. Añado el pie de página al resto de páginas que no lo tenían igual que en el punto anterior.
--55. Añado el Curriculum en la web de about.html, he decidido hacerlo inventado, de un personaje que hice para un trabajo de 4º de la ESO. (DDD about.html -5-)
+-55. Añado el Curriculum en la web de about.html, he decidido hacerlo inventado, de un personaje que hice para un trabajo de 4º de la ESO. (DDD about.html -4-)
+-56. Añado la foto de Carlos (DDD about.html -5-)
 
 ---DDD---
 
@@ -165,6 +166,7 @@ He insertado la info y el enlace de la página dedicada a FII (info sacada de la
 2- He añadido los titulos de lo que se me pide, la descripción, curriculum y redes sociales en h2.
 3- He copiado la barra de navegación entre páginas de la página de grado.html. Como copié previamente el estilo de dicha página, se ha adaptado perfectamente.
 4- He añadido el curriculum en estilo lista, me he basado para la primera parte en el tema pero el resto es cosecha propia, lo he hecho de un personaje ficticio que tuve que hacer en 4º de la Eso, Es un escritor del romanticismo, claro, ¿cómo está vivo?, quien sabe pero, ¿A caso es relevante? He añadido experiencia profesional, académica, descripción...
+5- He metido la foto de Carlos con el "img src". La foto está hecha con ia para el trabajo mencionado.
 
 
 -about.css-
