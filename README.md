@@ -79,14 +79,16 @@ Le añado estilo a esa tabla (Más detallado en DDD grado.css)
 -57. Añado las RR.SS. (DDD about.html -6-).
 -58. Añado estilo a los enlaces de las redes sociales (DDD about.html -7- y about.css -2-).
 -59. Añado otra foto y hago que coincidan las alturas (DDD about.html -8- y DDD about.css -3-).
+-60. Añado la info al index.html y dos clases a estilo.css
 
 ---DDD---
 
 --index.html y estilo.css--
 
 2- Para añadir el desplegable y la barra de selección de página arriba he usado como referencia este video: https://www.youtube.com/watch?v=9nFQN1bt7kA
-con un poco de ayuda de ChatGPT para que quede como quería. Lo he hecho con dos listas. Así lo he alineado arriba con fondo negro, he quitado que parezca un hipervinculo, y le he añadido hovers para que salga amarillo al pasar por encima y en el caso del grado un desplegable. Todo creando una clase llamada menu como aparece en el video.
+con un poco de ayuda de ChatGPT para que quede como quería. Lo he hecho con dos listas en el index. Así lo he alineado arriba con fondo negro, he quitado que parezca un hipervinculo, y le he añadido hovers para que salga amarillo al pasar por encima y en el caso del grado un desplegable con. Todo creando una clase llamada menu como aparece en el video mediante CSS.
 3- He añadido enlaces al final de la página para mejorar la comunicación entre páginas, y he añadido una linea de copyright porque porque no. También he cogido una línea de código de otra web que ya hice en segundo de la ESO para añadir el icono a la página, la linea es: <link rel="shortcut icon" href="icon.ico>
+4- He añadido la información en la página de inicio con un poco resumen de las páginas. También he metido dos imágenes, para que todo quede bien he copiado la clase contenido y fotos de about.css.
 
 
 --Fii.html y fii.css--

@@ -51,3 +51,18 @@ body {
 .menu ul li a:hover{
 color : rgb(255, 242, 0);
 }
+.contenido {
+    max-width: 120ch; /* Limita el ancho del contenido para mejorar la legibilidad a 120 caracteres, ahora se adapta a la pantalla además */
+    margin: 5vh auto; /* Centra el contenido vertical y horizontalmente */
+                      /* el 5vh es para que tenga un margen superior e inferior y significa 5% de la altura de la ventana */
+    padding: 3vw; /* Añade un poco de espacio interior */
+}
+h2 {
+    color: rgb(255, 0, 0);
+}
+.fotos {
+    display: flex;
+    gap: 20px; /* Espacio entre las imágenes */
+    height: 10rem; 
+    width: auto;
+}
