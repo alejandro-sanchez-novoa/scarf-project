@@ -79,7 +79,8 @@ Le añado estilo a esa tabla (Más detallado en DDD grado.css)
 -57. Añado las RR.SS. (DDD about.html -6-).
 -58. Añado estilo a los enlaces de las redes sociales (DDD about.html -7- y about.css -2-).
 -59. Añado otra foto y hago que coincidan las alturas (DDD about.html -8- y DDD about.css -3-).
--60. Añado la info al index.html y dos clases a estilo.css
+-60. Añado la info al index.html y dos clases a estilo.css. (DDD index.html y estilo.css -4-)
+-61. Cambio en la barra de navegación (menú) de todas las páginas la palabra "Tema" por "Películas".
 
 ---DDD---
 
