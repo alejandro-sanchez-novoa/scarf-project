@@ -82,6 +82,7 @@ Le añado estilo a esa tabla (Más detallado en DDD grado.css)
 -60. Añado la info al index.html y dos clases a estilo.css. (DDD index.html y estilo.css -4-).
 -61. Cambio en la barra de navegación (menú) de todas las páginas la palabra "Tema" por "Películas".
 -62. Añado la página de María al net.hmtl (DDD net.html -8-).
+-63. Añado la página de Miguel al net.hmtl (DDD net.html -9-).
 
 ---DDD---
 
@@ -195,6 +196,7 @@ He insertado la info y el enlace de la página dedicada a FII (info sacada de la
 6- He creado un div con la clase centrar-boton que engloba el enlace y el boton.
 7- He añadido la web de Sofía, para ello he copiado la estructura de la otra web y he cambiado el enlace. Para que haya variedad, me he descargado el botón en otro color y le he cambiado la ruta a la imagen por la nueva para que el botón ahora sea azul.
 8- He añadido la web de María, para ello he copiado la estructura de la otra web y he cambiado el enlace. Para que haya variedad, me he descargado el botón en otro color y le he cambiado la ruta a la imagen por la nueva para que el botón ahora sea verde.
+9- He añadido la web de Miguel, para ello he copiado la estructura de la otra web y he cambiado el enlace. Para que haya variedad, me he descargado el botón en otro color y le he cambiado la ruta a la imagen por la nueva para que el botón ahora sea verde.
 
 -net.css-
 1- He copiado el estilo de grado.css
