@@ -87,6 +87,10 @@ Le añado estilo a esa tabla (Más detallado en DDD grado.css)
 
 ---DDD---
 
+--Introducción--
+Este es mi Documento detallado de diseño sobre la web de Scarf Project. La web tiene 6 páginas, la principal (index), una de películas (topic), una del grado de ingeniería informática (grado), una sobre la asignatura de fundamentos de la ing. informática (fii), una de sobre mi (about) y una de contacto con un formulario (contact). La página está hecha en HTML 5 y CSS, usando herramientas como GitHub y Visual Studio Code, entre otras.
+
+
 --index.html y estilo.css--
 
 2- Para añadir el desplegable y la barra de selección de página arriba he usado como referencia este video: https://www.youtube.com/watch?v=9nFQN1bt7kA
@@ -204,3 +208,6 @@ He insertado la info y el enlace de la página dedicada a FII (info sacada de la
 2- ChatGPT me ha explicado como puedo reescalarlo y ponerlo en el centro, así que lo he hecho en la clase "boton". Esto se hace con los comandos "width 30vw"(que como ya vimos hace que la anchura sea el 30% de la anchura de la pantalla), "max-width 18rem"(Esto es para que si la pantalla es muy grande no pase de 18rem aunque sea menor al 30% de antes, el rem es una medida que usa como base el tamaño de la letra del navegador) y muchos otros comandos en automático como el margin para centrarlo. Y el "display block" para que pase de linea a bloque.
 3- He añadido un hover al botón para que haya una interacción al poner el cursor encima, mientras lo escribía le dí al tabulador y visual studio me lo generó solo para que se agrande. Esto se hace con "scale(1.05)" que lo hace un 5% más grande y "transform 0.2s" que hace que tarde 0.2 segundos en completarse esa transformación.
 4- El enlace ocupaba toda la página, ChatGPT me ha explicado que es un bug por poner el "display: block", por lo que me ha dicho que cree un div solo para centrar el enlace y luego la otra clase para reescalar el botón, de esta forma si funciona y el enlace está bien.
+
+--Conclusión--
+Este trabajo me ha gustado ya que es algo que me ha interesado y que ya sabía como hacer en gran parte por mi experiencia en la educación secundaria obligatoria y en bachillerato. Siento que es realmente de utilidad ya que he aprendido más de HTML 5 y CSS. Y, aunque, también es muy importante saber de github es la parte más aburrida y tediosa ya que cada cambio tienes que hacer un commit, incluyendo el readme con este documento que es lo que menos he disfrutado.
