@@ -83,6 +83,7 @@ Le añado estilo a esa tabla (Más detallado en DDD grado.css)
 -61. Cambio en la barra de navegación (menú) de todas las páginas la palabra "Tema" por "Películas".
 -62. Añado la página de María al net.hmtl (DDD net.html -8-).
 -63. Añado la página de Miguel al net.hmtl (DDD net.html -9-).
+-64 He modificado el tamaño de la imagen del botón amarillo desde el editor de fotos de windows.
 
 ---DDD---
 
